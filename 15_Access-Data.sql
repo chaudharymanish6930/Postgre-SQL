@@ -10,13 +10,13 @@ CREATE TABLE office(
 -- print all the data as you insert into the table
 SELECT * FROM office;
 
--- Access only employee id
+-- Access only employee_id
 SELECT employee_id FROM office;
 
--- Access employee id and name 
+-- Access employee_id and name 
 SELECT employee_id, name FROM office;
 
--- Access employee id, name, and hire_date
+-- Access employee_id, name, and hire_date
 SELECT employee_id, name, hire_date FROM office;
 
 
