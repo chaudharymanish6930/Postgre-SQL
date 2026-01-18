@@ -10,7 +10,6 @@ CREATE TABLE IF NOT EXISTS office(
 		city VARCHAR(20)	
 );
 
--- print all the data as you insert into the table
 SELECT * FROM office;
 
 INSERT INTO office(name, email, age, city)
@@ -49,6 +48,16 @@ WHERE email LIKE '%@gmail.com'
 -- Here % works as starting and ending point of it 
 -- use starting check the end email
 -- use ending check the start email
+
+
+-- Step 3: Update user data (e.g., user_id = 3)
+UPDATE office
+SET
+    name = 'Sara Kapoor',
+    age = 29,
+    city = 'Hyderabad',
+    email = 'sara.kapoor@example.com'
+WHERE employee_id = 3;
 
 -- it shows success but data is not present like "manish" 
 UPDATE office
