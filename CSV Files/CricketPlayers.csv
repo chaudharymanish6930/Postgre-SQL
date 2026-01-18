@@ -1,0 +1,401 @@
+Name,Age,Height (m),Weight (kg),Runs,Country,Club,DOB
+Hardik Root,32,1.72,63,6045,Sri Lanka,Rajasthan Royals,1993-10-13
+David Roy,31,2.02,81,11388,England,Chennai Super Kings,1994-05-11
+Rishabh Boult,25,1.72,64,10906,Afghanistan,Chennai Super Kings,2000-12-09
+Ben Smith,25,1.97,89,4458,Afghanistan,Kolkata Knight Riders,2000-12-22
+Rohit Stokes,22,1.72,92,1974,Bangladesh,Punjab Kings,2003-11-23
+Kane Pandya,24,1.99,93,10483,South Africa,Mumbai Indians,2001-05-17
+Kane Cummins,33,1.97,79,5358,West Indies,Mumbai Indians,1992-09-07
+Ben Williamson,21,1.81,62,1623,India,Rajasthan Royals,2004-04-03
+Trent Pandya,39,1.73,89,4271,New Zealand,Punjab Kings,1986-03-08
+Jos duPlessis,20,1.98,81,3977,Bangladesh,Kolkata Knight Riders,2005-06-18
+Jos Marsh,35,1.73,67,6858,Sri Lanka,Sunrisers Hyderabad,1990-06-24
+Pat Roy,28,1.74,95,7893,India,Delhi Capitals,1997-12-09
+Rishabh Azam,36,1.69,88,7851,Bangladesh,Mumbai Indians,1989-02-25
+Quinton Finch,19,1.7,63,3905,New Zealand,Mumbai Indians,2006-01-15
+Quinton Stokes,24,1.89,91,2873,Australia,Chennai Super Kings,2001-04-01
+David Stokes,20,1.81,60,10507,West Indies,Sunrisers Hyderabad,2005-01-05
+Virat Azam,20,1.87,61,3105,Pakistan,Punjab Kings,2005-10-17
+Jos Roy,26,2.01,80,10201,Pakistan,Chennai Super Kings,1999-05-27
+Aaron Marsh,36,1.98,95,6859,Bangladesh,Rajasthan Royals,1989-03-15
+KL Pant,19,1.66,68,1742,New Zealand,Kolkata Knight Riders,2006-06-22
+Hardik Roy,18,1.81,67,8329,Sri Lanka,Punjab Kings,2007-06-21
+Trent Kohli,39,2.02,89,1915,South Africa,Kolkata Knight Riders,1986-04-18
+David Finch,32,1.99,67,7398,West Indies,Sunrisers Hyderabad,1993-09-20
+Kane deKock,35,1.93,69,713,Australia,Rajasthan Royals,1990-03-13
+Ben Root,24,1.79,83,2516,New Zealand,Sunrisers Hyderabad,2001-03-22
+Jason Marsh,24,1.84,68,7427,Sri Lanka,Kolkata Knight Riders,2001-05-05
+Trent Williamson,31,1.73,68,2072,South Africa,Delhi Capitals,1994-09-20
+Shakib Stokes,18,1.91,80,6031,South Africa,Chennai Super Kings,2007-01-22
+David Marsh,34,1.69,85,6615,West Indies,Mumbai Indians,1991-07-08
+Kane Kohli,28,1.88,87,3875,New Zealand,Delhi Capitals,1997-04-04
+Babar Kohli,34,1.88,84,9664,Bangladesh,Rajasthan Royals,1991-06-25
+Aaron Roy,21,2.04,74,532,Afghanistan,Delhi Capitals,2004-10-24
+Jason Smith,28,1.72,90,5847,Afghanistan,Sunrisers Hyderabad,1997-02-11
+Aaron AlHasan,37,1.85,60,10259,Bangladesh,Punjab Kings,1988-09-25
+Jos Azam,25,1.82,74,1474,Pakistan,Punjab Kings,2000-11-21
+Quinton Pandya,37,1.87,66,11388,New Zealand,Sunrisers Hyderabad,1988-10-06
+Aaron AlHasan,24,1.82,64,2105,Afghanistan,Royal Challengers Bangalore,2001-05-23
+Rohit Finch,29,1.78,70,9756,India,Mumbai Indians,1996-06-20
+Pat Pant,22,1.91,94,5071,India,Kolkata Knight Riders,2003-04-25
+Joe Williamson,38,2.03,64,3983,Bangladesh,Rajasthan Royals,1987-08-18
+Virat Sharma,19,1.97,74,10872,West Indies,Delhi Capitals,2006-09-01
+Hardik Smith,22,1.66,72,3777,South Africa,Punjab Kings,2003-10-24
+Jos Williamson,21,1.88,67,7103,South Africa,Punjab Kings,2004-11-26
+Quinton Sharma,31,1.83,62,10615,Australia,Kolkata Knight Riders,1994-11-23
+Kane Cummins,37,1.92,72,11725,Australia,Royal Challengers Bangalore,1988-04-25
+Quinton Finch,28,1.8,93,10504,Afghanistan,Rajasthan Royals,1997-03-22
+Rohit Marsh,28,1.79,74,1698,Pakistan,Sunrisers Hyderabad,1997-07-22
+David Stokes,29,1.92,85,11647,Sri Lanka,Rajasthan Royals,1996-06-07
+Hardik Roy,25,1.67,70,5959,New Zealand,Delhi Capitals,2000-10-07
+Aaron Finch,29,1.98,66,3675,South Africa,Delhi Capitals,1996-07-06
+Trent duPlessis,25,1.97,73,9018,Sri Lanka,Mumbai Indians,2000-08-22
+Virat Pandya,34,1.78,79,5322,Bangladesh,Chennai Super Kings,1991-08-17
+Trent Cummins,21,1.83,83,10761,South Africa,Kolkata Knight Riders,2004-06-06
+KL Smith,35,1.84,74,11178,New Zealand,Kolkata Knight Riders,1990-05-17
+Faf Boult,25,1.84,89,1845,New Zealand,Delhi Capitals,2000-07-02
+Trent Finch,20,1.82,84,1339,Bangladesh,Mumbai Indians,2005-09-21
+Trent Williamson,27,1.97,87,7298,England,Punjab Kings,1998-04-27
+Rohit deKock,30,2.04,80,5894,England,Chennai Super Kings,1995-01-08
+Faf Finch,34,1.93,90,8907,Bangladesh,Mumbai Indians,1991-02-23
+KL Smith,31,1.93,76,11532,England,Delhi Capitals,1994-07-04
+Jos Root,40,1.88,81,10347,Afghanistan,Punjab Kings,1985-12-01
+David Marsh,27,1.78,84,10462,New Zealand,Delhi Capitals,1998-02-15
+Steve Stokes,27,1.66,66,1256,Bangladesh,Kolkata Knight Riders,1998-06-03
+Jos Marsh,30,1.88,67,8774,South Africa,Rajasthan Royals,1995-12-01
+Jos deKock,31,1.98,68,10998,Bangladesh,Kolkata Knight Riders,1994-12-15
+Joe Stokes,31,2.04,75,8137,Bangladesh,Kolkata Knight Riders,1994-10-02
+Shakib Warner,34,2.03,75,4454,Bangladesh,Mumbai Indians,1991-11-06
+Joe Root,28,1.83,62,4836,India,Rajasthan Royals,1997-08-15
+Steve Pant,33,1.68,71,3438,West Indies,Royal Challengers Bangalore,1992-11-14
+Rishabh Roy,21,1.8,87,3649,England,Sunrisers Hyderabad,2004-02-24
+Virat Williamson,29,1.98,92,1858,Bangladesh,Mumbai Indians,1996-07-01
+Shakib duPlessis,21,1.72,61,6430,England,Mumbai Indians,2004-05-10
+Virat Warner,27,2.04,68,4891,Australia,Kolkata Knight Riders,1998-09-10
+Shakib Pandya,21,1.66,93,9821,Bangladesh,Rajasthan Royals,2004-04-24
+David Stokes,25,1.85,95,6050,Pakistan,Royal Challengers Bangalore,2000-06-20
+David Buttler,21,1.84,81,6581,New Zealand,Mumbai Indians,2004-11-24
+Aaron deKock,22,1.74,72,11259,England,Royal Challengers Bangalore,2003-10-24
+Mitchell Smith,32,1.91,72,10844,Sri Lanka,Kolkata Knight Riders,1993-11-17
+Jos Smith,35,1.73,80,10769,Australia,Kolkata Knight Riders,1990-05-19
+Faf deKock,31,1.95,73,4523,Bangladesh,Sunrisers Hyderabad,1994-05-21
+Hardik Boult,33,1.76,89,673,Bangladesh,Mumbai Indians,1992-08-02
+Steve duPlessis,26,1.88,72,10406,Sri Lanka,Punjab Kings,1999-09-14
+David Stokes,27,1.96,74,11650,India,Delhi Capitals,1998-08-10
+Quinton Marsh,22,1.86,65,4903,Australia,Royal Challengers Bangalore,2003-09-24
+Steve Rahul,38,2.02,80,1664,New Zealand,Kolkata Knight Riders,1987-11-01
+Rohit Finch,35,1.81,75,1536,West Indies,Royal Challengers Bangalore,1990-11-24
+Rishabh Pant,19,2.01,77,2190,Sri Lanka,Delhi Capitals,2006-09-09
+Steve Cummins,39,2.0,74,1361,Afghanistan,Delhi Capitals,1986-01-09
+Babar deKock,18,1.95,84,6236,England,Kolkata Knight Riders,2007-08-11
+David deKock,39,1.76,91,11302,New Zealand,Sunrisers Hyderabad,1986-05-22
+Steve Finch,34,1.71,95,3810,Afghanistan,Punjab Kings,1991-10-16
+Hardik Sharma,32,1.67,92,2605,England,Sunrisers Hyderabad,1993-05-18
+Babar Root,32,1.74,89,4733,West Indies,Rajasthan Royals,1993-03-03
+David Smith,23,1.97,89,11371,Sri Lanka,Rajasthan Royals,2002-10-27
+Aaron Warner,24,1.71,88,7868,Bangladesh,Sunrisers Hyderabad,2001-06-10
+Jos AlHasan,35,1.8,61,6028,Australia,Rajasthan Royals,1990-09-09
+Joe Buttler,36,1.85,73,856,Afghanistan,Kolkata Knight Riders,1989-08-19
+KL Pandya,31,1.87,67,4046,Bangladesh,Chennai Super Kings,1994-11-28
+Ben Azam,30,1.94,81,5738,West Indies,Kolkata Knight Riders,1995-11-24
+Mitchell Pant,31,1.9,73,10134,England,Sunrisers Hyderabad,1994-11-28
+Hardik deKock,32,2.01,94,9160,Afghanistan,Delhi Capitals,1993-05-03
+Jason Warner,25,1.92,95,10997,West Indies,Rajasthan Royals,2000-12-24
+David Stokes,27,1.88,86,10339,Bangladesh,Chennai Super Kings,1998-06-02
+Aaron Rahul,37,1.74,76,2253,Afghanistan,Punjab Kings,1988-02-07
+Joe Warner,38,1.9,94,11591,South Africa,Royal Challengers Bangalore,1987-11-10
+David Cummins,18,2.0,64,5448,Afghanistan,Chennai Super Kings,2007-09-09
+Ben Marsh,26,1.95,68,3823,Bangladesh,Kolkata Knight Riders,1999-01-26
+Ben Boult,20,1.68,68,9256,Sri Lanka,Kolkata Knight Riders,2005-01-01
+Babar Marsh,36,1.84,75,7674,India,Sunrisers Hyderabad,1989-10-20
+Rohit Finch,24,1.83,63,11148,Pakistan,Kolkata Knight Riders,2001-04-16
+Steve Buttler,40,1.66,80,1828,Bangladesh,Rajasthan Royals,1985-12-15
+Joe Pandya,26,1.87,75,7418,Pakistan,Sunrisers Hyderabad,1999-12-21
+Ben Boult,24,1.94,74,2801,India,Kolkata Knight Riders,2001-09-20
+Ben AlHasan,19,1.86,63,8529,South Africa,Mumbai Indians,2006-11-25
+Babar Root,38,2.0,89,6997,Australia,Chennai Super Kings,1987-05-17
+KL deKock,28,1.71,93,3068,Afghanistan,Sunrisers Hyderabad,1997-03-10
+Mitchell Root,28,1.85,78,2688,New Zealand,Mumbai Indians,1997-01-25
+Hardik AlHasan,31,1.74,69,9569,Australia,Punjab Kings,1994-02-13
+Kane Smith,40,1.78,65,5658,Bangladesh,Chennai Super Kings,1985-09-23
+Hardik Buttler,24,1.84,87,838,Bangladesh,Punjab Kings,2001-11-21
+Steve Buttler,33,2.03,84,10156,India,Sunrisers Hyderabad,1992-03-08
+Pat Warner,29,1.7,94,3835,Sri Lanka,Chennai Super Kings,1996-12-19
+Pat Marsh,22,1.94,86,1687,Bangladesh,Sunrisers Hyderabad,2003-06-15
+Joe Marsh,31,2.01,80,8114,England,Rajasthan Royals,1994-09-04
+Quinton Kohli,35,1.7,91,2445,Afghanistan,Sunrisers Hyderabad,1990-04-12
+KL Pant,36,1.66,85,3754,West Indies,Sunrisers Hyderabad,1989-02-18
+Trent Williamson,21,1.89,65,11164,India,Royal Challengers Bangalore,2004-06-07
+Rishabh duPlessis,22,1.7,77,9672,Pakistan,Punjab Kings,2003-11-01
+Aaron Stokes,22,2.04,77,5626,Pakistan,Sunrisers Hyderabad,2003-06-01
+Rishabh duPlessis,25,1.98,92,6992,India,Mumbai Indians,2000-02-10
+Jason Stokes,37,1.83,78,1871,Pakistan,Sunrisers Hyderabad,1988-05-02
+Babar Pandya,18,1.67,84,5992,Pakistan,Punjab Kings,2007-12-22
+Quinton Finch,34,1.71,94,5038,Sri Lanka,Mumbai Indians,1991-11-14
+Jason Cummins,37,1.75,94,8989,Pakistan,Mumbai Indians,1988-05-02
+Pat deKock,22,1.69,70,4231,Afghanistan,Delhi Capitals,2003-05-10
+Rohit Rahul,37,1.9,79,8408,England,Delhi Capitals,1988-08-15
+Hardik Roy,22,1.81,71,2745,West Indies,Rajasthan Royals,2003-07-20
+Babar Pant,25,1.66,90,523,England,Rajasthan Royals,2000-02-06
+Mitchell Warner,30,1.72,80,10802,England,Rajasthan Royals,1995-04-17
+KL Williamson,24,1.85,93,11482,Sri Lanka,Mumbai Indians,2001-08-20
+Steve Sharma,34,1.97,77,11728,Bangladesh,Sunrisers Hyderabad,1991-05-26
+Jos Warner,37,1.69,82,11789,India,Sunrisers Hyderabad,1988-05-28
+Jason Smith,20,1.9,95,11100,Afghanistan,Sunrisers Hyderabad,2005-10-28
+Rishabh Williamson,34,1.65,75,11159,Bangladesh,Royal Challengers Bangalore,1991-06-23
+KL Roy,36,1.87,69,2052,Pakistan,Rajasthan Royals,1989-03-11
+Ben Marsh,22,1.96,90,960,New Zealand,Royal Challengers Bangalore,2003-05-12
+Jos Smith,39,1.76,67,11843,Sri Lanka,Sunrisers Hyderabad,1986-04-27
+KL Pandya,30,1.86,95,8151,Sri Lanka,Kolkata Knight Riders,1995-03-12
+KL duPlessis,24,1.98,86,4815,Pakistan,Delhi Capitals,2001-04-22
+Ben Williamson,26,1.8,64,2461,England,Mumbai Indians,1999-12-02
+Rishabh Sharma,38,1.83,92,8758,Bangladesh,Sunrisers Hyderabad,1987-01-25
+Rishabh Root,19,1.98,65,6185,South Africa,Mumbai Indians,2006-05-08
+Jason Marsh,40,1.94,72,8217,India,Sunrisers Hyderabad,1985-02-13
+Babar Smith,20,1.85,62,1153,Afghanistan,Royal Challengers Bangalore,2005-03-19
+Hardik Roy,21,1.69,94,3206,India,Rajasthan Royals,2004-03-03
+Virat Cummins,26,1.96,64,9574,West Indies,Rajasthan Royals,1999-04-13
+Jason Cummins,21,1.91,89,3008,Bangladesh,Sunrisers Hyderabad,2004-03-13
+Mitchell Kohli,35,1.69,87,2291,New Zealand,Royal Challengers Bangalore,1990-02-03
+David Root,28,1.81,75,9648,Bangladesh,Rajasthan Royals,1997-05-13
+Babar Rahul,21,1.95,77,1574,Australia,Punjab Kings,2004-04-14
+Ben Azam,27,1.77,81,3706,Bangladesh,Punjab Kings,1998-02-26
+Jason AlHasan,23,1.71,75,9799,South Africa,Mumbai Indians,2002-05-20
+Aaron Williamson,33,1.94,83,9801,India,Royal Challengers Bangalore,1992-03-05
+Quinton Azam,21,1.66,95,10763,Sri Lanka,Sunrisers Hyderabad,2004-02-28
+Rishabh Kohli,30,1.84,76,2755,South Africa,Kolkata Knight Riders,1995-11-16
+Faf Pant,20,1.68,81,4720,Bangladesh,Sunrisers Hyderabad,2005-03-05
+Babar Rahul,32,1.74,82,1418,New Zealand,Chennai Super Kings,1993-01-12
+Joe Kohli,34,1.72,92,7219,Afghanistan,Chennai Super Kings,1991-11-05
+Rohit Cummins,23,1.87,60,5823,Sri Lanka,Chennai Super Kings,2002-06-14
+Trent Azam,25,1.73,66,6398,Pakistan,Chennai Super Kings,2000-04-17
+Babar Buttler,32,1.82,85,1240,Sri Lanka,Delhi Capitals,1993-04-23
+Jos Stokes,30,1.68,84,5019,England,Kolkata Knight Riders,1995-11-07
+Faf Sharma,29,1.83,68,9073,Pakistan,Rajasthan Royals,1996-12-15
+Rohit Stokes,37,1.8,80,2667,South Africa,Delhi Capitals,1988-06-27
+Jason Roy,23,1.92,73,4627,India,Delhi Capitals,2002-09-10
+Pat Root,21,1.97,68,2363,Afghanistan,Punjab Kings,2004-01-12
+Rishabh Rahul,32,1.68,85,9399,Sri Lanka,Royal Challengers Bangalore,1993-01-21
+David Cummins,27,1.95,75,3657,England,Sunrisers Hyderabad,1998-09-05
+Ben deKock,24,1.88,76,8147,India,Delhi Capitals,2001-08-11
+Shakib Azam,19,1.89,64,10764,India,Sunrisers Hyderabad,2006-03-25
+Jason Williamson,32,1.92,85,7197,Bangladesh,Rajasthan Royals,1993-05-28
+Rishabh Roy,29,1.99,74,2041,Pakistan,Punjab Kings,1996-11-11
+Kane deKock,34,1.67,62,3600,New Zealand,Punjab Kings,1991-01-23
+Jason Boult,24,1.66,73,4822,England,Rajasthan Royals,2001-04-09
+Quinton Cummins,28,1.9,93,5570,Bangladesh,Sunrisers Hyderabad,1997-10-28
+Shakib Warner,36,1.91,71,11583,England,Mumbai Indians,1989-11-18
+Pat Boult,38,1.7,69,793,South Africa,Royal Challengers Bangalore,1987-05-26
+Steve Azam,24,2.03,63,8477,Pakistan,Mumbai Indians,2001-01-16
+Shakib Cummins,18,1.88,93,712,Sri Lanka,Punjab Kings,2007-02-04
+Jos duPlessis,28,1.68,72,5731,England,Kolkata Knight Riders,1997-07-09
+Hardik Root,28,2.0,91,1157,England,Chennai Super Kings,1997-01-25
+Pat Rahul,31,1.81,75,8115,Afghanistan,Kolkata Knight Riders,1994-07-10
+Mitchell Root,33,2.03,70,11318,New Zealand,Punjab Kings,1992-10-11
+Joe Pandya,31,1.73,76,5603,India,Royal Challengers Bangalore,1994-01-02
+KL Smith,36,1.75,78,4610,Pakistan,Chennai Super Kings,1989-05-28
+Joe Boult,34,1.8,61,7075,Bangladesh,Mumbai Indians,1991-04-06
+KL Marsh,19,2.03,62,3503,Pakistan,Chennai Super Kings,2006-12-14
+Babar Kohli,28,2.02,64,528,West Indies,Sunrisers Hyderabad,1997-09-19
+Steve Marsh,22,1.9,72,6881,West Indies,Delhi Capitals,2003-04-02
+Aaron Buttler,19,1.78,67,9599,Sri Lanka,Sunrisers Hyderabad,2006-05-21
+Ben Azam,29,2.03,60,9293,South Africa,Punjab Kings,1996-09-12
+Pat AlHasan,40,1.99,93,7535,New Zealand,Kolkata Knight Riders,1985-02-24
+David Cummins,30,1.73,80,6761,India,Sunrisers Hyderabad,1995-11-25
+Babar Warner,27,1.91,80,8803,South Africa,Royal Challengers Bangalore,1998-03-08
+Jason Pandya,26,1.76,84,10053,Pakistan,Delhi Capitals,1999-12-21
+Virat AlHasan,21,1.85,90,6400,South Africa,Punjab Kings,2004-01-27
+Babar Cummins,19,2.01,81,10895,England,Sunrisers Hyderabad,2006-09-12
+Faf Marsh,38,1.99,66,5326,New Zealand,Punjab Kings,1987-03-10
+KL duPlessis,28,2.01,76,1833,West Indies,Sunrisers Hyderabad,1997-12-09
+Rohit Rahul,20,1.79,76,5518,Australia,Kolkata Knight Riders,2005-05-09
+Rishabh Williamson,40,1.74,60,5611,India,Kolkata Knight Riders,1985-03-16
+Kane deKock,22,1.98,80,8086,Bangladesh,Sunrisers Hyderabad,2003-08-27
+Joe Marsh,36,1.91,74,11670,Afghanistan,Royal Challengers Bangalore,1989-06-07
+KL AlHasan,34,1.66,61,2324,South Africa,Sunrisers Hyderabad,1991-03-16
+Rohit Marsh,24,1.72,81,10251,West Indies,Chennai Super Kings,2001-01-27
+Faf Root,21,1.97,74,8501,Pakistan,Chennai Super Kings,2004-04-09
+Virat Finch,20,2.01,93,8654,Pakistan,Rajasthan Royals,2005-08-25
+Babar Buttler,20,1.89,95,1566,West Indies,Chennai Super Kings,2005-04-12
+Faf Warner,20,1.74,60,8503,New Zealand,Kolkata Knight Riders,2005-06-04
+Babar Roy,21,1.84,62,11208,Sri Lanka,Royal Challengers Bangalore,2004-06-01
+Quinton Sharma,20,1.87,68,2999,Afghanistan,Sunrisers Hyderabad,2005-11-24
+Shakib Root,19,1.82,70,3328,South Africa,Chennai Super Kings,2006-09-22
+Rishabh Boult,25,1.75,76,3908,Bangladesh,Chennai Super Kings,2000-12-25
+Jason Marsh,28,1.8,81,7415,Pakistan,Chennai Super Kings,1997-10-28
+Kane duPlessis,23,1.82,78,1510,Sri Lanka,Punjab Kings,2002-08-16
+Rishabh duPlessis,18,1.95,62,656,Australia,Punjab Kings,2007-06-26
+Mitchell Warner,26,1.72,82,6718,West Indies,Delhi Capitals,1999-11-14
+Rohit AlHasan,38,1.82,68,11715,Australia,Rajasthan Royals,1987-07-15
+Quinton Sharma,27,2.05,74,890,India,Mumbai Indians,1998-08-09
+KL Cummins,29,2.04,87,7702,England,Punjab Kings,1996-08-07
+Babar Smith,30,2.02,65,5890,New Zealand,Mumbai Indians,1995-02-01
+KL Pandya,22,1.87,72,7185,Australia,Rajasthan Royals,2003-05-18
+Faf Warner,21,1.66,72,10778,New Zealand,Kolkata Knight Riders,2004-09-25
+Hardik deKock,33,1.92,87,10219,Pakistan,Mumbai Indians,1992-10-10
+Joe Cummins,18,1.9,74,758,Bangladesh,Mumbai Indians,2007-01-15
+Mitchell duPlessis,31,1.74,66,1353,New Zealand,Royal Challengers Bangalore,1994-08-09
+Aaron Buttler,22,1.76,62,9314,Sri Lanka,Kolkata Knight Riders,2003-08-23
+Jason Azam,19,1.76,62,1960,Bangladesh,Kolkata Knight Riders,2006-05-28
+Steve AlHasan,38,1.73,61,2260,Bangladesh,Mumbai Indians,1987-10-12
+Aaron Root,26,1.72,69,11959,Sri Lanka,Chennai Super Kings,1999-04-24
+Pat Marsh,23,1.66,89,11769,Australia,Mumbai Indians,2002-12-20
+KL Azam,29,1.98,80,8213,New Zealand,Kolkata Knight Riders,1996-02-27
+Babar Cummins,33,1.76,94,608,New Zealand,Delhi Capitals,1992-12-26
+Shakib Williamson,30,2.04,77,10484,Sri Lanka,Punjab Kings,1995-10-26
+Aaron AlHasan,38,1.82,80,8358,India,Kolkata Knight Riders,1987-06-21
+David Roy,40,1.77,77,9727,Sri Lanka,Kolkata Knight Riders,1985-03-12
+Babar Rahul,19,1.82,84,4351,Afghanistan,Royal Challengers Bangalore,2006-11-27
+Aaron duPlessis,34,1.75,89,8188,Australia,Delhi Capitals,1991-02-17
+Quinton Buttler,28,1.85,69,5548,Sri Lanka,Chennai Super Kings,1997-03-15
+Steve Buttler,36,1.76,88,11085,South Africa,Mumbai Indians,1989-12-16
+Steve duPlessis,20,1.93,82,7344,New Zealand,Mumbai Indians,2005-06-20
+Aaron Smith,40,1.95,77,9256,Pakistan,Chennai Super Kings,1985-11-22
+Jos Cummins,28,1.75,78,9908,New Zealand,Rajasthan Royals,1997-04-01
+Virat AlHasan,25,1.94,71,2661,South Africa,Royal Challengers Bangalore,2000-02-02
+Pat Pandya,23,1.77,90,3065,West Indies,Rajasthan Royals,2002-03-06
+Steve duPlessis,18,1.75,77,11212,Pakistan,Chennai Super Kings,2007-11-04
+David Azam,29,1.73,69,6257,Bangladesh,Rajasthan Royals,1996-09-16
+Rohit Azam,25,1.73,89,6118,Sri Lanka,Punjab Kings,2000-02-19
+Ben Roy,34,1.72,77,8999,Bangladesh,Mumbai Indians,1991-12-20
+KL Boult,30,1.66,68,8107,Bangladesh,Chennai Super Kings,1995-07-02
+Shakib Williamson,35,1.71,78,4991,Sri Lanka,Rajasthan Royals,1990-07-02
+David Smith,38,1.94,95,8220,South Africa,Mumbai Indians,1987-08-23
+Rohit Stokes,35,1.84,68,8793,Australia,Royal Challengers Bangalore,1990-10-05
+Aaron Pant,28,1.81,95,4910,India,Chennai Super Kings,1997-12-14
+Trent Pandya,24,1.78,62,11455,Afghanistan,Chennai Super Kings,2001-04-22
+David Roy,30,1.76,94,8729,New Zealand,Kolkata Knight Riders,1995-04-24
+Faf Root,32,1.86,69,537,Bangladesh,Delhi Capitals,1993-02-23
+Hardik AlHasan,26,1.68,70,2788,Bangladesh,Delhi Capitals,1999-05-07
+Mitchell Finch,19,2.02,60,5485,England,Sunrisers Hyderabad,2006-04-25
+Trent Azam,29,1.98,68,1631,New Zealand,Chennai Super Kings,1996-02-06
+Virat Warner,40,1.96,60,5021,New Zealand,Chennai Super Kings,1985-11-05
+Mitchell Kohli,39,1.77,90,1758,Australia,Sunrisers Hyderabad,1986-08-03
+Rohit Marsh,40,2.05,93,8942,New Zealand,Delhi Capitals,1985-07-12
+Aaron Sharma,36,1.88,82,9888,West Indies,Punjab Kings,1989-05-10
+Jos Williamson,33,1.86,74,9850,India,Chennai Super Kings,1992-11-22
+Trent Cummins,40,1.91,74,9134,England,Sunrisers Hyderabad,1985-05-23
+David Kohli,28,1.71,84,10452,England,Mumbai Indians,1997-11-27
+Trent Cummins,24,1.85,63,3783,Sri Lanka,Sunrisers Hyderabad,2001-01-08
+Jos Williamson,27,1.86,70,2949,Sri Lanka,Mumbai Indians,1998-08-18
+Steve Boult,30,1.89,60,1060,Bangladesh,Punjab Kings,1995-02-23
+David Sharma,35,1.95,85,11961,Sri Lanka,Kolkata Knight Riders,1990-11-11
+Kane Warner,30,1.87,76,11963,New Zealand,Punjab Kings,1995-06-02
+Kane Pandya,33,1.77,84,11953,South Africa,Delhi Capitals,1992-10-24
+Steve Pandya,18,1.75,61,9144,Australia,Rajasthan Royals,2007-06-21
+Mitchell Stokes,32,1.79,84,3975,Afghanistan,Sunrisers Hyderabad,1993-08-09
+Steve Finch,19,1.85,90,3292,India,Punjab Kings,2006-09-05
+Pat Finch,31,1.99,78,593,Afghanistan,Kolkata Knight Riders,1994-09-27
+Trent Smith,31,1.81,74,6898,West Indies,Delhi Capitals,1994-06-25
+Rishabh Boult,24,1.74,61,5844,Bangladesh,Rajasthan Royals,2001-04-22
+Hardik Cummins,19,1.98,68,559,South Africa,Royal Challengers Bangalore,2006-09-01
+Steve Warner,38,1.71,63,8750,South Africa,Chennai Super Kings,1987-07-28
+Quinton Warner,19,1.75,92,8748,England,Chennai Super Kings,2006-07-18
+Aaron Marsh,31,1.79,79,10203,Australia,Delhi Capitals,1994-02-06
+Virat duPlessis,39,1.88,78,5518,Bangladesh,Kolkata Knight Riders,1986-02-27
+Quinton Marsh,36,2.05,72,6026,New Zealand,Delhi Capitals,1989-12-21
+Quinton Cummins,30,1.73,74,8870,West Indies,Kolkata Knight Riders,1995-09-17
+Pat Cummins,39,1.76,78,7951,Pakistan,Sunrisers Hyderabad,1986-07-23
+Quinton Kohli,38,1.66,87,2867,Sri Lanka,Punjab Kings,1987-06-13
+Virat Finch,32,1.91,85,1159,Bangladesh,Royal Challengers Bangalore,1993-02-07
+Jos Pandya,25,1.95,61,2869,Australia,Mumbai Indians,2000-10-14
+Trent Boult,37,1.97,78,2486,Pakistan,Mumbai Indians,1988-10-14
+Jason Warner,33,1.9,63,10826,Australia,Delhi Capitals,1992-06-15
+Mitchell AlHasan,18,1.67,94,7015,Bangladesh,Delhi Capitals,2007-03-01
+Aaron Warner,39,2.03,74,2445,Bangladesh,Royal Challengers Bangalore,1986-06-03
+KL Sharma,34,1.8,69,4794,Afghanistan,Sunrisers Hyderabad,1991-07-28
+KL Cummins,23,1.76,62,9028,Sri Lanka,Kolkata Knight Riders,2002-05-28
+David AlHasan,40,1.81,84,2686,Australia,Rajasthan Royals,1985-07-07
+Shakib Sharma,33,2.05,71,1850,India,Rajasthan Royals,1992-01-23
+Kane Rahul,38,1.98,80,1525,Bangladesh,Delhi Capitals,1987-08-03
+Virat Boult,37,1.95,66,9999,Afghanistan,Punjab Kings,1988-11-13
+Ben Finch,21,1.75,63,4438,Bangladesh,Delhi Capitals,2004-11-05
+Hardik Stokes,36,1.93,63,4575,Bangladesh,Kolkata Knight Riders,1989-12-27
+Shakib Williamson,27,1.94,66,5924,Bangladesh,Rajasthan Royals,1998-09-25
+Aaron Buttler,36,1.7,89,4721,Afghanistan,Royal Challengers Bangalore,1989-11-26
+Shakib Stokes,28,1.94,64,11387,Australia,Sunrisers Hyderabad,1997-04-15
+Ben Stokes,32,2.04,63,2058,West Indies,Chennai Super Kings,1993-04-25
+Faf Rahul,35,1.91,76,10014,Sri Lanka,Sunrisers Hyderabad,1990-02-20
+Kane Rahul,32,1.74,64,1902,New Zealand,Mumbai Indians,1993-05-18
+David Stokes,24,1.96,95,11038,Australia,Kolkata Knight Riders,2001-02-12
+Quinton Buttler,18,1.94,82,821,Afghanistan,Kolkata Knight Riders,2007-06-24
+Rishabh deKock,31,1.67,82,7985,South Africa,Kolkata Knight Riders,1994-10-12
+Hardik Cummins,18,1.98,95,11569,West Indies,Kolkata Knight Riders,2007-11-05
+Virat duPlessis,24,1.76,82,2653,India,Rajasthan Royals,2001-03-16
+Hardik Root,27,1.69,64,8736,Sri Lanka,Punjab Kings,1998-11-01
+Babar Marsh,34,1.99,90,1077,Afghanistan,Rajasthan Royals,1991-05-19
+Steve deKock,35,1.89,68,8258,New Zealand,Royal Challengers Bangalore,1990-07-21
+David Root,20,1.7,94,5419,Sri Lanka,Delhi Capitals,2005-05-19
+Faf Azam,35,1.79,70,5451,Bangladesh,Royal Challengers Bangalore,1990-08-15
+Trent Pandya,33,2.03,80,5695,India,Sunrisers Hyderabad,1992-06-28
+Quinton Cummins,22,2.03,95,11950,Pakistan,Kolkata Knight Riders,2003-12-04
+Kane Rahul,19,1.79,78,10849,Sri Lanka,Kolkata Knight Riders,2006-05-10
+Pat Buttler,24,1.95,75,1533,New Zealand,Punjab Kings,2001-03-21
+Trent Root,19,1.78,66,2667,Bangladesh,Kolkata Knight Riders,2006-01-24
+Aaron Williamson,28,1.93,91,11422,West Indies,Rajasthan Royals,1997-03-10
+Hardik Pandya,35,1.8,67,9964,Bangladesh,Punjab Kings,1990-07-23
+Rishabh Boult,28,1.9,70,6331,New Zealand,Rajasthan Royals,1997-02-02
+Jos Root,25,1.97,73,7466,India,Sunrisers Hyderabad,2000-09-16
+Aaron Buttler,32,1.97,84,11727,Sri Lanka,Royal Challengers Bangalore,1993-04-20
+Rohit Rahul,39,1.91,95,7191,Sri Lanka,Rajasthan Royals,1986-09-10
+Kane Root,36,1.83,80,9920,West Indies,Punjab Kings,1989-11-02
+Jason Sharma,33,2.04,66,10190,India,Chennai Super Kings,1992-07-07
+Trent duPlessis,40,1.93,63,11818,Sri Lanka,Rajasthan Royals,1985-01-01
+KL Finch,29,1.86,86,1566,Australia,Rajasthan Royals,1996-11-10
+Pat Marsh,32,1.84,84,9178,India,Mumbai Indians,1993-08-26
+Babar Cummins,30,2.01,88,673,New Zealand,Royal Challengers Bangalore,1995-09-21
+Shakib Smith,33,1.95,92,9124,South Africa,Delhi Capitals,1992-08-14
+Virat Finch,20,1.7,61,8065,Sri Lanka,Chennai Super Kings,2005-04-14
+Babar AlHasan,30,1.87,84,3939,Sri Lanka,Sunrisers Hyderabad,1995-10-27
+Ben Finch,22,1.67,85,4052,Pakistan,Punjab Kings,2003-01-10
+Rishabh Rahul,29,1.96,75,10824,South Africa,Punjab Kings,1996-11-21
+Virat Azam,39,1.98,61,3780,New Zealand,Chennai Super Kings,1986-08-24
+Jason Rahul,18,1.84,71,11274,England,Delhi Capitals,2007-04-02
+Jason Rahul,40,1.89,86,8928,Afghanistan,Royal Challengers Bangalore,1985-12-02
+Joe Roy,27,1.78,83,10278,West Indies,Chennai Super Kings,1998-08-04
+Quinton Sharma,39,2.05,88,1115,South Africa,Sunrisers Hyderabad,1986-09-21
+Mitchell Rahul,31,1.72,61,7140,Pakistan,Punjab Kings,1994-05-19
+David Smith,40,1.68,62,1088,Australia,Chennai Super Kings,1985-01-02
+Jos Cummins,34,1.71,95,7297,India,Sunrisers Hyderabad,1991-12-09
+Faf Stokes,29,1.97,69,6728,Bangladesh,Royal Challengers Bangalore,1996-02-21
+Steve Azam,18,1.79,66,1621,Sri Lanka,Sunrisers Hyderabad,2007-10-15
+Kane Azam,40,1.69,81,5736,Sri Lanka,Kolkata Knight Riders,1985-01-20
+Aaron Kohli,27,1.78,67,2329,India,Rajasthan Royals,1998-08-25
+Jason Pandya,19,1.79,94,8621,West Indies,Delhi Capitals,2006-12-22
+Faf duPlessis,35,1.99,81,2503,Bangladesh,Kolkata Knight Riders,1990-09-25
+Virat Roy,24,1.84,67,10712,England,Delhi Capitals,2001-11-11
+Rohit Cummins,18,1.67,79,11215,India,Rajasthan Royals,2007-09-13
+Jason Warner,25,1.94,80,8854,New Zealand,Kolkata Knight Riders,2000-11-24
+Aaron Sharma,39,1.82,69,1846,Afghanistan,Mumbai Indians,1986-09-04
+Trent Rahul,22,1.77,70,1621,Pakistan,Sunrisers Hyderabad,2003-10-17
+Trent Azam,32,1.97,81,7930,West Indies,Punjab Kings,1993-02-04
+Virat Roy,22,1.93,74,4154,Pakistan,Chennai Super Kings,2003-08-27
+Steve Warner,33,1.95,85,2700,Bangladesh,Royal Challengers Bangalore,1992-08-02
+Hardik Sharma,21,1.82,71,9524,Afghanistan,Sunrisers Hyderabad,2004-10-14
+Mitchell Pandya,19,1.8,68,6707,India,Punjab Kings,2006-01-16
+Joe Warner,37,1.79,64,9272,Australia,Sunrisers Hyderabad,1988-11-14
+Rohit Kohli,29,1.97,79,909,India,Sunrisers Hyderabad,1996-03-09
+Hardik Finch,24,1.96,65,6103,New Zealand,Chennai Super Kings,2001-09-07
+Joe Pandya,36,1.94,81,10123,South Africa,Chennai Super Kings,1989-03-20
+Babar duPlessis,26,1.73,76,10484,Sri Lanka,Chennai Super Kings,1999-03-09
+Ben Pandya,31,1.97,64,7022,South Africa,Kolkata Knight Riders,1994-05-05
+Shakib AlHasan,22,1.66,84,9390,Australia,Sunrisers Hyderabad,2003-12-03
+Ben Buttler,19,1.86,71,1310,Afghanistan,Punjab Kings,2006-02-06
+Babar Buttler,29,2.01,91,9669,West Indies,Royal Challengers Bangalore,1996-06-25
+Faf Pant,39,1.85,91,2965,Afghanistan,Rajasthan Royals,1986-11-28
+Kane Smith,21,1.97,88,1230,England,Rajasthan Royals,2004-03-06
+Rohit Sharma,23,1.78,62,8840,Pakistan,Royal Challengers Bangalore,2002-11-25
+Faf Kohli,28,1.9,84,9418,Pakistan,Punjab Kings,1997-04-23
+KL Cummins,30,1.85,70,729,Afghanistan,Mumbai Indians,1995-12-09
+Faf Buttler,40,2.02,93,7751,South Africa,Royal Challengers Bangalore,1985-04-19
+KL duPlessis,18,1.84,62,1125,India,Royal Challengers Bangalore,2007-04-25
+Rishabh Williamson,26,2.0,69,1329,Afghanistan,Delhi Capitals,1999-05-26
+Trent Finch,26,2.0,92,2685,New Zealand,Rajasthan Royals,1999-09-04
+Pat deKock,20,1.88,70,1076,Pakistan,Rajasthan Royals,2005-08-14
+KL AlHasan,40,1.87,91,4699,New Zealand,Sunrisers Hyderabad,1985-07-02
+Mitchell Root,40,1.74,87,1506,Australia,Chennai Super Kings,1985-05-26
+Rishabh Root,25,1.71,65,6922,Sri Lanka,Sunrisers Hyderabad,2000-05-01
+Pat Boult,32,1.65,71,5221,Bangladesh,Kolkata Knight Riders,1993-05-08
+Pat Kohli,18,1.69,68,5803,Sri Lanka,Royal Challengers Bangalore,2007-08-16
+David Root,28,1.74,92,9126,South Africa,Royal Challengers Bangalore,1997-01-08
+Aaron Williamson,39,1.76,84,7755,New Zealand,Chennai Super Kings,1986-02-28

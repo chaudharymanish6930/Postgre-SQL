@@ -1,0 +1,169 @@
+Brand,Model,Processor,RAM_GB,Storage_GB,Screen_Size_inch,Graphics,Price_USD
+HP,ZenBook,AMD Ryzen 5,8,512,17.3,NVIDIA MX350,1099
+Dell,ZenBook,AMD Ryzen 3,32,256,13.3,AMD Radeon,972
+Asus,Gram,Apple M1,32,128,13.3,NVIDIA MX350,1129
+Apple,Gram,Intel i3,4,512,11.6,Integrated,1304
+Apple,Galaxy,Apple M2,8,256,15.6,NVIDIA MX350,953
+Lenovo,ThinkPad,AMD Ryzen 5,32,128,15.6,NVIDIA GTX 1650,953
+HP,Galaxy,AMD Ryzen 5,4,512,17.3,NVIDIA GTX 1650,1315
+Toshiba,Satellite,Apple M2,4,1024,17.3,AMD Radeon,1153
+HP,Galaxy,AMD Ryzen 3,16,128,17.3,Integrated,906
+LG,Aspire,Apple M1,16,256,11.6,AMD Radeon,1108
+Microsoft,Aspire,AMD Ryzen 5,8,1024,13.3,NVIDIA GTX 1650,907
+Dell,Satellite,Apple M2,32,256,15.6,AMD Radeon,906
+Dell,Satellite,Intel i5,32,512,14.0,NVIDIA GTX 1650,1048
+HP,Surface,Intel i3,16,128,15.6,NVIDIA GTX 1650,617
+Apple,Galaxy,Intel i7,8,1024,13.3,NVIDIA MX350,655
+Apple,Aspire,Apple M2,32,1024,13.3,Integrated,887
+Toshiba,MacBook,Apple M1,4,1024,14.0,NVIDIA GTX 1650,797
+LG,MacBook,Apple M2,4,512,11.6,Integrated,1062
+Dell,Gram,Apple M2,4,128,15.6,AMD Radeon,818
+Toshiba,Surface,AMD Ryzen 3,4,128,17.3,AMD Radeon,717
+Apple,MacBook,AMD Ryzen 7,16,512,11.6,NVIDIA GTX 1650,1293
+Toshiba,Surface,Intel i7,8,256,17.3,Integrated,954
+Microsoft,Inspiron,AMD Ryzen 7,4,1024,15.6,NVIDIA GTX 1650,1013
+Apple,Aspire,AMD Ryzen 7,4,256,14.0,NVIDIA GTX 1650,715
+Samsung,Galaxy,AMD Ryzen 7,32,512,11.6,NVIDIA MX350,891
+LG,Surface,Apple M1,16,256,15.6,AMD Radeon,1022
+Asus,Surface,Intel i7,32,256,17.3,Integrated,769
+Dell,ThinkPad,AMD Ryzen 7,32,512,15.6,AMD Radeon,1075
+Lenovo,Galaxy,Intel i5,32,1024,13.3,NVIDIA MX350,879
+Microsoft,Inspiron,AMD Ryzen 7,4,256,13.3,AMD Radeon,941
+Acer,ThinkPad,AMD Ryzen 3,8,128,15.6,NVIDIA MX350,879
+Asus,Satellite,Apple M2,16,256,17.3,AMD Radeon,1370
+Lenovo,Gram,Intel i5,4,256,13.3,Integrated,997
+Apple,Aspire,AMD Ryzen 5,16,128,15.6,NVIDIA MX350,788
+Acer,Pavilion,Apple M2,4,1024,15.6,AMD Radeon,1164
+HP,Galaxy,AMD Ryzen 3,8,128,17.3,NVIDIA MX350,755
+HP,Pavilion,Intel i7,8,1024,13.3,Integrated,1041
+Microsoft,Satellite,Intel i5,16,512,17.3,AMD Radeon,608
+HP,Galaxy,Intel i3,32,512,17.3,NVIDIA GTX 1650,734
+Acer,Inspiron,AMD Ryzen 5,4,256,17.3,Integrated,1039
+Acer,ThinkPad,Apple M1,16,256,13.3,Integrated,1147
+LG,Surface,Apple M1,32,512,13.3,Integrated,1034
+Asus,ThinkPad,AMD Ryzen 3,8,128,11.6,Integrated,976
+Dell,Pavilion,Intel i7,4,512,14.0,NVIDIA GTX 1650,939
+Samsung,Galaxy,AMD Ryzen 7,8,1024,15.6,AMD Radeon,704
+Toshiba,ZenBook,AMD Ryzen 7,4,256,14.0,Integrated,856
+HP,Aspire,AMD Ryzen 3,32,128,17.3,AMD Radeon,907
+Microsoft,Gram,Intel i7,4,256,11.6,NVIDIA MX350,1211
+HP,Surface,Apple M2,32,512,11.6,Integrated,1068
+Toshiba,Pavilion,Apple M2,4,128,15.6,Integrated,647
+Asus,Aspire,Apple M2,16,512,15.6,AMD Radeon,1064
+LG,Satellite,AMD Ryzen 5,8,1024,14.0,NVIDIA GTX 1650,922
+Acer,Surface,Apple M2,4,512,14.0,NVIDIA MX350,864
+LG,Aspire,Intel i3,4,128,13.3,NVIDIA GTX 1650,1122
+Apple,Galaxy,Intel i5,8,512,14.0,AMD Radeon,1206
+HP,Satellite,Apple M1,4,256,14.0,Integrated,1186
+Dell,Inspiron,Apple M2,8,256,17.3,AMD Radeon,832
+Apple,Gram,AMD Ryzen 3,32,128,11.6,AMD Radeon,938
+Asus,Pavilion,AMD Ryzen 3,16,256,14.0,AMD Radeon,1066
+HP,MacBook,AMD Ryzen 7,16,1024,13.3,AMD Radeon,1195
+Apple,ZenBook,Intel i3,8,1024,14.0,Integrated,904
+HP,MacBook,Intel i3,16,128,17.3,NVIDIA MX350,962
+Microsoft,Pavilion,AMD Ryzen 5,8,512,15.6,Integrated,778
+Asus,Surface,Apple M2,16,256,17.3,AMD Radeon,760
+Samsung,Pavilion,Apple M2,4,256,13.3,AMD Radeon,1162
+Acer,Pavilion,AMD Ryzen 5,4,512,15.6,Integrated,1271
+Lenovo,Galaxy,Intel i3,16,512,11.6,NVIDIA GTX 1650,985
+Acer,ThinkPad,Intel i5,32,512,13.3,NVIDIA GTX 1650,1200
+Acer,ZenBook,Apple M1,16,512,13.3,NVIDIA GTX 1650,1072
+Apple,Inspiron,Intel i7,4,256,14.0,AMD Radeon,870
+Asus,Inspiron,AMD Ryzen 5,16,1024,13.3,Integrated,1072
+HP,Aspire,AMD Ryzen 7,4,128,11.6,Integrated,1307
+LG,Inspiron,Apple M1,32,128,11.6,NVIDIA GTX 1650,992
+Lenovo,ZenBook,AMD Ryzen 7,32,512,11.6,NVIDIA GTX 1650,1312
+Toshiba,Aspire,Intel i3,16,1024,14.0,NVIDIA GTX 1650,1048
+Dell,ZenBook,Intel i5,8,256,13.3,Integrated,1209.03
+Toshiba,Gram,Apple M1,4,128,11.6,AMD Radeon,809.39
+LG,ZenBook,Intel i3,32,256,15.6,NVIDIA MX350,1328.49
+HP,MacBook,Apple M1,16,512,13.3,AMD Radeon,1461.49
+Microsoft,Gram,AMD Ryzen 5,32,128,14.0,NVIDIA MX350,1143.35
+HP,Surface,AMD Ryzen 5,32,128,17.3,NVIDIA MX350,1346.46
+LG,Satellite,Intel i3,4,128,13.3,NVIDIA MX350,1486.7
+Apple,Gram,Apple M1,16,1024,14.0,AMD Radeon,933.16
+Apple,ThinkPad,AMD Ryzen 5,8,256,13.3,NVIDIA GTX 1650,941.51
+Toshiba,Galaxy,Intel i7,4,256,11.6,NVIDIA MX350,961.05
+Dell,Galaxy,Intel i7,8,1024,15.6,NVIDIA GTX 1650,728.58
+Asus,Galaxy,Intel i5,32,1024,14.0,AMD Radeon,1497.59
+Asus,Inspiron,Apple M2,4,128,11.6,AMD Radeon,1164.7
+Acer,Pavilion,AMD Ryzen 5,32,1024,17.3,NVIDIA GTX 1650,1076.2
+Toshiba,ZenBook,AMD Ryzen 5,16,512,14.0,Integrated,1305.56
+Brand,Model,Processor,RAM_GB,Storage_GB,Screen_Size_inch,Graphics,Price_USD
+HP,ZenBook,AMD Ryzen 5,8,512,17.3,NVIDIA MX350,1099
+Dell,ZenBook,AMD Ryzen 3,32,256,13.3,AMD Radeon,972
+Asus,Gram,Apple M1,32,128,13.3,NVIDIA MX350,1129
+Apple,Gram,Intel i3,4,512,11.6,Integrated,1304
+Apple,Galaxy,Apple M2,8,256,15.6,NVIDIA MX350,953
+Lenovo,ThinkPad,AMD Ryzen 5,32,128,15.6,NVIDIA GTX 1650,953
+HP,Galaxy,AMD Ryzen 5,4,512,17.3,NVIDIA GTX 1650,1315
+Toshiba,Satellite,Apple M2,4,1024,17.3,AMD Radeon,1153
+HP,Galaxy,AMD Ryzen 3,16,128,17.3,Integrated,906
+LG,Aspire,Apple M1,16,256,11.6,AMD Radeon,1108
+Microsoft,Aspire,AMD Ryzen 5,8,1024,13.3,NVIDIA GTX 1650,907
+Dell,Satellite,Apple M2,32,256,15.6,AMD Radeon,906
+Dell,Satellite,Intel i5,32,512,14.0,NVIDIA GTX 1650,1048
+HP,Surface,Intel i3,16,128,15.6,NVIDIA GTX 1650,617
+Apple,Galaxy,Intel i7,8,1024,13.3,NVIDIA MX350,655
+Apple,Aspire,Apple M2,32,1024,13.3,Integrated,887
+Toshiba,MacBook,Apple M1,4,1024,14.0,NVIDIA GTX 1650,797
+LG,MacBook,Apple M2,4,512,11.6,Integrated,1062
+Dell,Gram,Apple M2,4,128,15.6,AMD Radeon,818
+Toshiba,Surface,AMD Ryzen 3,4,128,17.3,AMD Radeon,717
+Apple,MacBook,AMD Ryzen 7,16,512,11.6,NVIDIA GTX 1650,1293
+Toshiba,Surface,Intel i7,8,256,17.3,Integrated,954
+Microsoft,Inspiron,AMD Ryzen 7,4,1024,15.6,NVIDIA GTX 1650,1013
+Apple,Aspire,AMD Ryzen 7,4,256,14.0,NVIDIA GTX 1650,715
+Samsung,Galaxy,AMD Ryzen 7,32,512,11.6,NVIDIA MX350,891
+LG,Surface,Apple M1,16,256,15.6,AMD Radeon,1022
+Asus,Surface,Intel i7,32,256,17.3,Integrated,769
+Dell,ThinkPad,AMD Ryzen 7,32,512,15.6,AMD Radeon,1075
+Lenovo,Galaxy,Intel i5,32,1024,13.3,NVIDIA MX350,879
+Microsoft,Inspiron,AMD Ryzen 7,4,256,13.3,AMD Radeon,941
+Acer,ThinkPad,AMD Ryzen 3,8,128,15.6,NVIDIA MX350,879
+Asus,Satellite,Apple M2,16,256,17.3,AMD Radeon,1370
+Lenovo,Gram,Intel i5,4,256,13.3,Integrated,997
+Apple,Aspire,AMD Ryzen 5,16,128,15.6,NVIDIA MX350,788
+Acer,Pavilion,Apple M2,4,1024,15.6,AMD Radeon,1164
+HP,Galaxy,AMD Ryzen 3,8,128,17.3,NVIDIA MX350,755
+HP,Pavilion,Intel i7,8,1024,13.3,Integrated,1041
+Microsoft,Satellite,Intel i5,16,512,17.3,AMD Radeon,608
+HP,Galaxy,Intel i3,32,512,17.3,NVIDIA GTX 1650,734
+Acer,Inspiron,AMD Ryzen 5,4,256,17.3,Integrated,1039
+Acer,ThinkPad,Apple M1,16,256,13.3,Integrated,1147
+LG,Surface,Apple M1,32,512,13.3,Integrated,1034
+Asus,ThinkPad,AMD Ryzen 3,8,128,11.6,Integrated,976
+Dell,Pavilion,Intel i7,4,512,14.0,NVIDIA GTX 1650,939
+Samsung,Galaxy,AMD Ryzen 7,8,1024,15.6,AMD Radeon,704
+Toshiba,ZenBook,AMD Ryzen 7,4,256,14.0,Integrated,856
+HP,Aspire,AMD Ryzen 3,32,128,17.3,AMD Radeon,907
+Microsoft,Gram,Intel i7,4,256,11.6,NVIDIA MX350,1211
+HP,Surface,Apple M2,32,512,11.6,Integrated,1068
+Toshiba,Pavilion,Apple M2,4,128,15.6,Integrated,647
+Asus,Aspire,Apple M2,16,512,15.6,AMD Radeon,1064
+LG,Satellite,AMD Ryzen 5,8,1024,14.0,NVIDIA GTX 1650,922
+Acer,Surface,Apple M2,4,512,14.0,NVIDIA MX350,864
+LG,Aspire,Intel i3,4,128,13.3,NVIDIA GTX 1650,1122
+Apple,Galaxy,Intel i5,8,512,14.0,AMD Radeon,1206
+HP,Satellite,Apple M1,4,256,14.0,Integrated,1186
+Dell,Inspiron,Apple M2,8,256,17.3,AMD Radeon,832
+Apple,Gram,AMD Ryzen 3,32,128,11.6,AMD Radeon,938
+Asus,Pavilion,AMD Ryzen 3,16,256,14.0,AMD Radeon,1066
+HP,MacBook,AMD Ryzen 7,16,1024,13.3,AMD Radeon,1195
+Apple,ZenBook,Intel i3,8,1024,14.0,Integrated,904
+HP,MacBook,Intel i3,16,128,17.3,NVIDIA MX350,962
+Microsoft,Pavilion,AMD Ryzen 5,8,512,15.6,Integrated,778
+Asus,Surface,Apple M2,16,256,17.3,AMD Radeon,760
+Samsung,Pavilion,Apple M2,4,256,13.3,AMD Radeon,1162
+Acer,Pavilion,AMD Ryzen 5,4,512,15.6,Integrated,1271
+Lenovo,Galaxy,Intel i3,16,512,11.6,NVIDIA GTX 1650,985
+Acer,ThinkPad,Intel i5,32,512,13.3,NVIDIA GTX 1650,1200
+Acer,ZenBook,Apple M1,16,512,13.3,NVIDIA GTX 1650,1072
+Apple,Inspiron,Intel i7,4,256,14.0,AMD Radeon,870
+Asus,Inspiron,AMD Ryzen 5,16,1024,13.3,Integrated,1072
+HP,Aspire,AMD Ryzen 7,4,128,11.6,Integrated,1307
+LG,Inspiron,Apple M1,32,128,11.6,NVIDIA GTX 1650,992
+Lenovo,ZenBook,AMD Ryzen 7,32,512,11.6,NVIDIA GTX 1650,1312
+Toshiba,Aspire,Intel i3,16,1024,14.0,NVIDIA GTX 1650,1048
+Dell,ZenBook,Intel i5,8,256,13.3,Integrated,1209.03
+Toshiba,Gram,Apple M1,4,128,11.6,AMD Radeon,809.39

@@ -1,0 +1,401 @@
+Name,Age,Height (m),Weight (kg),Runs,Country,Club
+Hardik Root,32,1.72,63,6045,Sri Lanka,Rajasthan Royals
+David Roy,31,2.02,81,11388,England,Chennai Super Kings
+Rishabh Boult,25,1.72,64,10906,Afghanistan,Chennai Super Kings
+Ben Smith,25,1.97,89,4458,Afghanistan,Kolkata Knight Riders
+Rohit Stokes,22,1.72,92,1974,Bangladesh,Punjab Kings
+Kane Pandya,24,1.99,93,10483,South Africa,Mumbai Indians
+Kane Cummins,33,1.97,79,5358,West Indies,Mumbai Indians
+Ben Williamson,21,1.81,62,1623,India,Rajasthan Royals
+Trent Pandya,39,1.73,89,4271,New Zealand,Punjab Kings
+Jos duPlessis,20,1.98,81,3977,Bangladesh,Kolkata Knight Riders
+Jos Marsh,35,1.73,67,6858,Sri Lanka,Sunrisers Hyderabad
+Pat Roy,28,1.74,95,7893,India,Delhi Capitals
+Rishabh Azam,36,1.69,88,7851,Bangladesh,Mumbai Indians
+Quinton Finch,19,1.7,63,3905,New Zealand,Mumbai Indians
+Quinton Stokes,24,1.89,91,2873,Australia,Chennai Super Kings
+David Stokes,20,1.81,60,10507,West Indies,Sunrisers Hyderabad
+Virat Azam,20,1.87,61,3105,Pakistan,Punjab Kings
+Jos Roy,26,2.01,80,10201,Pakistan,Chennai Super Kings
+Aaron Marsh,36,1.98,95,6859,Bangladesh,Rajasthan Royals
+KL Pant,19,1.66,68,1742,New Zealand,Kolkata Knight Riders
+Hardik Roy,18,1.81,67,8329,Sri Lanka,Punjab Kings
+Trent Kohli,39,2.02,89,1915,South Africa,Kolkata Knight Riders
+David Finch,32,1.99,67,7398,West Indies,Sunrisers Hyderabad
+Kane deKock,35,1.93,69,713,Australia,Rajasthan Royals
+Ben Root,24,1.79,83,2516,New Zealand,Sunrisers Hyderabad
+Jason Marsh,24,1.84,68,7427,Sri Lanka,Kolkata Knight Riders
+Trent Williamson,31,1.73,68,2072,South Africa,Delhi Capitals
+Shakib Stokes,18,1.91,80,6031,South Africa,Chennai Super Kings
+David Marsh,34,1.69,85,6615,West Indies,Mumbai Indians
+Kane Kohli,28,1.88,87,3875,New Zealand,Delhi Capitals
+Babar Kohli,34,1.88,84,9664,Bangladesh,Rajasthan Royals
+Aaron Roy,21,2.04,74,532,Afghanistan,Delhi Capitals
+Jason Smith,28,1.72,90,5847,Afghanistan,Sunrisers Hyderabad
+Aaron AlHasan,37,1.85,60,10259,Bangladesh,Punjab Kings
+Jos Azam,25,1.82,74,1474,Pakistan,Punjab Kings
+Quinton Pandya,37,1.87,66,11388,New Zealand,Sunrisers Hyderabad
+Aaron AlHasan,24,1.82,64,2105,Afghanistan,Royal Challengers Bangalore
+Rohit Finch,29,1.78,70,9756,India,Mumbai Indians
+Pat Pant,22,1.91,94,5071,India,Kolkata Knight Riders
+Joe Williamson,38,2.03,64,3983,Bangladesh,Rajasthan Royals
+Virat Sharma,19,1.97,74,10872,West Indies,Delhi Capitals
+Hardik Smith,22,1.66,72,3777,South Africa,Punjab Kings
+Jos Williamson,21,1.88,67,7103,South Africa,Punjab Kings
+Quinton Sharma,31,1.83,62,10615,Australia,Kolkata Knight Riders
+Kane Cummins,37,1.92,72,11725,Australia,Royal Challengers Bangalore
+Quinton Finch,28,1.8,93,10504,Afghanistan,Rajasthan Royals
+Rohit Marsh,28,1.79,74,1698,Pakistan,Sunrisers Hyderabad
+David Stokes,29,1.92,85,11647,Sri Lanka,Rajasthan Royals
+Hardik Roy,25,1.67,70,5959,New Zealand,Delhi Capitals
+Aaron Finch,29,1.98,66,3675,South Africa,Delhi Capitals
+Trent duPlessis,25,1.97,73,9018,Sri Lanka,Mumbai Indians
+Virat Pandya,34,1.78,79,5322,Bangladesh,Chennai Super Kings
+Trent Cummins,21,1.83,83,10761,South Africa,Kolkata Knight Riders
+KL Smith,35,1.84,74,11178,New Zealand,Kolkata Knight Riders
+Faf Boult,25,1.84,89,1845,New Zealand,Delhi Capitals
+Trent Finch,20,1.82,84,1339,Bangladesh,Mumbai Indians
+Trent Williamson,27,1.97,87,7298,England,Punjab Kings
+Rohit deKock,30,2.04,80,5894,England,Chennai Super Kings
+Faf Finch,34,1.93,90,8907,Bangladesh,Mumbai Indians
+KL Smith,31,1.93,76,11532,England,Delhi Capitals
+Jos Root,40,1.88,81,10347,Afghanistan,Punjab Kings
+David Marsh,27,1.78,84,10462,New Zealand,Delhi Capitals
+Steve Stokes,27,1.66,66,1256,Bangladesh,Kolkata Knight Riders
+Jos Marsh,30,1.88,67,8774,South Africa,Rajasthan Royals
+Jos deKock,31,1.98,68,10998,Bangladesh,Kolkata Knight Riders
+Joe Stokes,31,2.04,75,8137,Bangladesh,Kolkata Knight Riders
+Shakib Warner,34,2.03,75,4454,Bangladesh,Mumbai Indians
+Joe Root,28,1.83,62,4836,India,Rajasthan Royals
+Steve Pant,33,1.68,71,3438,West Indies,Royal Challengers Bangalore
+Rishabh Roy,21,1.8,87,3649,England,Sunrisers Hyderabad
+Virat Williamson,29,1.98,92,1858,Bangladesh,Mumbai Indians
+Shakib duPlessis,21,1.72,61,6430,England,Mumbai Indians
+Virat Warner,27,2.04,68,4891,Australia,Kolkata Knight Riders
+Shakib Pandya,21,1.66,93,9821,Bangladesh,Rajasthan Royals
+David Stokes,25,1.85,95,6050,Pakistan,Royal Challengers Bangalore
+David Buttler,21,1.84,81,6581,New Zealand,Mumbai Indians
+Aaron deKock,22,1.74,72,11259,England,Royal Challengers Bangalore
+Mitchell Smith,32,1.91,72,10844,Sri Lanka,Kolkata Knight Riders
+Jos Smith,35,1.73,80,10769,Australia,Kolkata Knight Riders
+Faf deKock,31,1.95,73,4523,Bangladesh,Sunrisers Hyderabad
+Hardik Boult,33,1.76,89,673,Bangladesh,Mumbai Indians
+Steve duPlessis,26,1.88,72,10406,Sri Lanka,Punjab Kings
+David Stokes,27,1.96,74,11650,India,Delhi Capitals
+Quinton Marsh,22,1.86,65,4903,Australia,Royal Challengers Bangalore
+Steve Rahul,38,2.02,80,1664,New Zealand,Kolkata Knight Riders
+Rohit Finch,35,1.81,75,1536,West Indies,Royal Challengers Bangalore
+Rishabh Pant,19,2.01,77,2190,Sri Lanka,Delhi Capitals
+Steve Cummins,39,2.0,74,1361,Afghanistan,Delhi Capitals
+Babar deKock,18,1.95,84,6236,England,Kolkata Knight Riders
+David deKock,39,1.76,91,11302,New Zealand,Sunrisers Hyderabad
+Steve Finch,34,1.71,95,3810,Afghanistan,Punjab Kings
+Hardik Sharma,32,1.67,92,2605,England,Sunrisers Hyderabad
+Babar Root,32,1.74,89,4733,West Indies,Rajasthan Royals
+David Smith,23,1.97,89,11371,Sri Lanka,Rajasthan Royals
+Aaron Warner,24,1.71,88,7868,Bangladesh,Sunrisers Hyderabad
+Jos AlHasan,35,1.8,61,6028,Australia,Rajasthan Royals
+Joe Buttler,36,1.85,73,856,Afghanistan,Kolkata Knight Riders
+KL Pandya,31,1.87,67,4046,Bangladesh,Chennai Super Kings
+Ben Azam,30,1.94,81,5738,West Indies,Kolkata Knight Riders
+Mitchell Pant,31,1.9,73,10134,England,Sunrisers Hyderabad
+Hardik deKock,32,2.01,94,9160,Afghanistan,Delhi Capitals
+Jason Warner,25,1.92,95,10997,West Indies,Rajasthan Royals
+David Stokes,27,1.88,86,10339,Bangladesh,Chennai Super Kings
+Aaron Rahul,37,1.74,76,2253,Afghanistan,Punjab Kings
+Joe Warner,38,1.9,94,11591,South Africa,Royal Challengers Bangalore
+David Cummins,18,2.0,64,5448,Afghanistan,Chennai Super Kings
+Ben Marsh,26,1.95,68,3823,Bangladesh,Kolkata Knight Riders
+Ben Boult,20,1.68,68,9256,Sri Lanka,Kolkata Knight Riders
+Babar Marsh,36,1.84,75,7674,India,Sunrisers Hyderabad
+Rohit Finch,24,1.83,63,11148,Pakistan,Kolkata Knight Riders
+Steve Buttler,40,1.66,80,1828,Bangladesh,Rajasthan Royals
+Joe Pandya,26,1.87,75,7418,Pakistan,Sunrisers Hyderabad
+Ben Boult,24,1.94,74,2801,India,Kolkata Knight Riders
+Ben AlHasan,19,1.86,63,8529,South Africa,Mumbai Indians
+Babar Root,38,2.0,89,6997,Australia,Chennai Super Kings
+KL deKock,28,1.71,93,3068,Afghanistan,Sunrisers Hyderabad
+Mitchell Root,28,1.85,78,2688,New Zealand,Mumbai Indians
+Hardik AlHasan,31,1.74,69,9569,Australia,Punjab Kings
+Kane Smith,40,1.78,65,5658,Bangladesh,Chennai Super Kings
+Hardik Buttler,24,1.84,87,838,Bangladesh,Punjab Kings
+Steve Buttler,33,2.03,84,10156,India,Sunrisers Hyderabad
+Pat Warner,29,1.7,94,3835,Sri Lanka,Chennai Super Kings
+Pat Marsh,22,1.94,86,1687,Bangladesh,Sunrisers Hyderabad
+Joe Marsh,31,2.01,80,8114,England,Rajasthan Royals
+Quinton Kohli,35,1.7,91,2445,Afghanistan,Sunrisers Hyderabad
+KL Pant,36,1.66,85,3754,West Indies,Sunrisers Hyderabad
+Trent Williamson,21,1.89,65,11164,India,Royal Challengers Bangalore
+Rishabh duPlessis,22,1.7,77,9672,Pakistan,Punjab Kings
+Aaron Stokes,22,2.04,77,5626,Pakistan,Sunrisers Hyderabad
+Rishabh duPlessis,25,1.98,92,6992,India,Mumbai Indians
+Jason Stokes,37,1.83,78,1871,Pakistan,Sunrisers Hyderabad
+Babar Pandya,18,1.67,84,5992,Pakistan,Punjab Kings
+Quinton Finch,34,1.71,94,5038,Sri Lanka,Mumbai Indians
+Jason Cummins,37,1.75,94,8989,Pakistan,Mumbai Indians
+Pat deKock,22,1.69,70,4231,Afghanistan,Delhi Capitals
+Rohit Rahul,37,1.9,79,8408,England,Delhi Capitals
+Hardik Roy,22,1.81,71,2745,West Indies,Rajasthan Royals
+Babar Pant,25,1.66,90,523,England,Rajasthan Royals
+Mitchell Warner,30,1.72,80,10802,England,Rajasthan Royals
+KL Williamson,24,1.85,93,11482,Sri Lanka,Mumbai Indians
+Steve Sharma,34,1.97,77,11728,Bangladesh,Sunrisers Hyderabad
+Jos Warner,37,1.69,82,11789,India,Sunrisers Hyderabad
+Jason Smith,20,1.9,95,11100,Afghanistan,Sunrisers Hyderabad
+Rishabh Williamson,34,1.65,75,11159,Bangladesh,Royal Challengers Bangalore
+KL Roy,36,1.87,69,2052,Pakistan,Rajasthan Royals
+Ben Marsh,22,1.96,90,960,New Zealand,Royal Challengers Bangalore
+Jos Smith,39,1.76,67,11843,Sri Lanka,Sunrisers Hyderabad
+KL Pandya,30,1.86,95,8151,Sri Lanka,Kolkata Knight Riders
+KL duPlessis,24,1.98,86,4815,Pakistan,Delhi Capitals
+Ben Williamson,26,1.8,64,2461,England,Mumbai Indians
+Rishabh Sharma,38,1.83,92,8758,Bangladesh,Sunrisers Hyderabad
+Rishabh Root,19,1.98,65,6185,South Africa,Mumbai Indians
+Jason Marsh,40,1.94,72,8217,India,Sunrisers Hyderabad
+Babar Smith,20,1.85,62,1153,Afghanistan,Royal Challengers Bangalore
+Hardik Roy,21,1.69,94,3206,India,Rajasthan Royals
+Virat Cummins,26,1.96,64,9574,West Indies,Rajasthan Royals
+Jason Cummins,21,1.91,89,3008,Bangladesh,Sunrisers Hyderabad
+Mitchell Kohli,35,1.69,87,2291,New Zealand,Royal Challengers Bangalore
+David Root,28,1.81,75,9648,Bangladesh,Rajasthan Royals
+Babar Rahul,21,1.95,77,1574,Australia,Punjab Kings
+Ben Azam,27,1.77,81,3706,Bangladesh,Punjab Kings
+Jason AlHasan,23,1.71,75,9799,South Africa,Mumbai Indians
+Aaron Williamson,33,1.94,83,9801,India,Royal Challengers Bangalore
+Quinton Azam,21,1.66,95,10763,Sri Lanka,Sunrisers Hyderabad
+Rishabh Kohli,30,1.84,76,2755,South Africa,Kolkata Knight Riders
+Faf Pant,20,1.68,81,4720,Bangladesh,Sunrisers Hyderabad
+Babar Rahul,32,1.74,82,1418,New Zealand,Chennai Super Kings
+Joe Kohli,34,1.72,92,7219,Afghanistan,Chennai Super Kings
+Rohit Cummins,23,1.87,60,5823,Sri Lanka,Chennai Super Kings
+Trent Azam,25,1.73,66,6398,Pakistan,Chennai Super Kings
+Babar Buttler,32,1.82,85,1240,Sri Lanka,Delhi Capitals
+Jos Stokes,30,1.68,84,5019,England,Kolkata Knight Riders
+Faf Sharma,29,1.83,68,9073,Pakistan,Rajasthan Royals
+Rohit Stokes,37,1.8,80,2667,South Africa,Delhi Capitals
+Jason Roy,23,1.92,73,4627,India,Delhi Capitals
+Pat Root,21,1.97,68,2363,Afghanistan,Punjab Kings
+Rishabh Rahul,32,1.68,85,9399,Sri Lanka,Royal Challengers Bangalore
+David Cummins,27,1.95,75,3657,England,Sunrisers Hyderabad
+Ben deKock,24,1.88,76,8147,India,Delhi Capitals
+Shakib Azam,19,1.89,64,10764,India,Sunrisers Hyderabad
+Jason Williamson,32,1.92,85,7197,Bangladesh,Rajasthan Royals
+Rishabh Roy,29,1.99,74,2041,Pakistan,Punjab Kings
+Kane deKock,34,1.67,62,3600,New Zealand,Punjab Kings
+Jason Boult,24,1.66,73,4822,England,Rajasthan Royals
+Quinton Cummins,28,1.9,93,5570,Bangladesh,Sunrisers Hyderabad
+Shakib Warner,36,1.91,71,11583,England,Mumbai Indians
+Pat Boult,38,1.7,69,793,South Africa,Royal Challengers Bangalore
+Steve Azam,24,2.03,63,8477,Pakistan,Mumbai Indians
+Shakib Cummins,18,1.88,93,712,Sri Lanka,Punjab Kings
+Jos duPlessis,28,1.68,72,5731,England,Kolkata Knight Riders
+Hardik Root,28,2.0,91,1157,England,Chennai Super Kings
+Pat Rahul,31,1.81,75,8115,Afghanistan,Kolkata Knight Riders
+Mitchell Root,33,2.03,70,11318,New Zealand,Punjab Kings
+Joe Pandya,31,1.73,76,5603,India,Royal Challengers Bangalore
+KL Smith,36,1.75,78,4610,Pakistan,Chennai Super Kings
+Joe Boult,34,1.8,61,7075,Bangladesh,Mumbai Indians
+KL Marsh,19,2.03,62,3503,Pakistan,Chennai Super Kings
+Babar Kohli,28,2.02,64,528,West Indies,Sunrisers Hyderabad
+Steve Marsh,22,1.9,72,6881,West Indies,Delhi Capitals
+Aaron Buttler,19,1.78,67,9599,Sri Lanka,Sunrisers Hyderabad
+Ben Azam,29,2.03,60,9293,South Africa,Punjab Kings
+Pat AlHasan,40,1.99,93,7535,New Zealand,Kolkata Knight Riders
+David Cummins,30,1.73,80,6761,India,Sunrisers Hyderabad
+Babar Warner,27,1.91,80,8803,South Africa,Royal Challengers Bangalore
+Jason Pandya,26,1.76,84,10053,Pakistan,Delhi Capitals
+Virat AlHasan,21,1.85,90,6400,South Africa,Punjab Kings
+Babar Cummins,19,2.01,81,10895,England,Sunrisers Hyderabad
+Faf Marsh,38,1.99,66,5326,New Zealand,Punjab Kings
+KL duPlessis,28,2.01,76,1833,West Indies,Sunrisers Hyderabad
+Rohit Rahul,20,1.79,76,5518,Australia,Kolkata Knight Riders
+Rishabh Williamson,40,1.74,60,5611,India,Kolkata Knight Riders
+Kane deKock,22,1.98,80,8086,Bangladesh,Sunrisers Hyderabad
+Joe Marsh,36,1.91,74,11670,Afghanistan,Royal Challengers Bangalore
+KL AlHasan,34,1.66,61,2324,South Africa,Sunrisers Hyderabad
+Rohit Marsh,24,1.72,81,10251,West Indies,Chennai Super Kings
+Faf Root,21,1.97,74,8501,Pakistan,Chennai Super Kings
+Virat Finch,20,2.01,93,8654,Pakistan,Rajasthan Royals
+Babar Buttler,20,1.89,95,1566,West Indies,Chennai Super Kings
+Faf Warner,20,1.74,60,8503,New Zealand,Kolkata Knight Riders
+Babar Roy,21,1.84,62,11208,Sri Lanka,Royal Challengers Bangalore
+Quinton Sharma,20,1.87,68,2999,Afghanistan,Sunrisers Hyderabad
+Shakib Root,19,1.82,70,3328,South Africa,Chennai Super Kings
+Rishabh Boult,25,1.75,76,3908,Bangladesh,Chennai Super Kings
+Jason Marsh,28,1.8,81,7415,Pakistan,Chennai Super Kings
+Kane duPlessis,23,1.82,78,1510,Sri Lanka,Punjab Kings
+Rishabh duPlessis,18,1.95,62,656,Australia,Punjab Kings
+Mitchell Warner,26,1.72,82,6718,West Indies,Delhi Capitals
+Rohit AlHasan,38,1.82,68,11715,Australia,Rajasthan Royals
+Quinton Sharma,27,2.05,74,890,India,Mumbai Indians
+KL Cummins,29,2.04,87,7702,England,Punjab Kings
+Babar Smith,30,2.02,65,5890,New Zealand,Mumbai Indians
+KL Pandya,22,1.87,72,7185,Australia,Rajasthan Royals
+Faf Warner,21,1.66,72,10778,New Zealand,Kolkata Knight Riders
+Hardik deKock,33,1.92,87,10219,Pakistan,Mumbai Indians
+Joe Cummins,18,1.9,74,758,Bangladesh,Mumbai Indians
+Mitchell duPlessis,31,1.74,66,1353,New Zealand,Royal Challengers Bangalore
+Aaron Buttler,22,1.76,62,9314,Sri Lanka,Kolkata Knight Riders
+Jason Azam,19,1.76,62,1960,Bangladesh,Kolkata Knight Riders
+Steve AlHasan,38,1.73,61,2260,Bangladesh,Mumbai Indians
+Aaron Root,26,1.72,69,11959,Sri Lanka,Chennai Super Kings
+Pat Marsh,23,1.66,89,11769,Australia,Mumbai Indians
+KL Azam,29,1.98,80,8213,New Zealand,Kolkata Knight Riders
+Babar Cummins,33,1.76,94,608,New Zealand,Delhi Capitals
+Shakib Williamson,30,2.04,77,10484,Sri Lanka,Punjab Kings
+Aaron AlHasan,38,1.82,80,8358,India,Kolkata Knight Riders
+David Roy,40,1.77,77,9727,Sri Lanka,Kolkata Knight Riders
+Babar Rahul,19,1.82,84,4351,Afghanistan,Royal Challengers Bangalore
+Aaron duPlessis,34,1.75,89,8188,Australia,Delhi Capitals
+Quinton Buttler,28,1.85,69,5548,Sri Lanka,Chennai Super Kings
+Steve Buttler,36,1.76,88,11085,South Africa,Mumbai Indians
+Steve duPlessis,20,1.93,82,7344,New Zealand,Mumbai Indians
+Aaron Smith,40,1.95,77,9256,Pakistan,Chennai Super Kings
+Jos Cummins,28,1.75,78,9908,New Zealand,Rajasthan Royals
+Virat AlHasan,25,1.94,71,2661,South Africa,Royal Challengers Bangalore
+Pat Pandya,23,1.77,90,3065,West Indies,Rajasthan Royals
+Steve duPlessis,18,1.75,77,11212,Pakistan,Chennai Super Kings
+David Azam,29,1.73,69,6257,Bangladesh,Rajasthan Royals
+Rohit Azam,25,1.73,89,6118,Sri Lanka,Punjab Kings
+Ben Roy,34,1.72,77,8999,Bangladesh,Mumbai Indians
+KL Boult,30,1.66,68,8107,Bangladesh,Chennai Super Kings
+Shakib Williamson,35,1.71,78,4991,Sri Lanka,Rajasthan Royals
+David Smith,38,1.94,95,8220,South Africa,Mumbai Indians
+Rohit Stokes,35,1.84,68,8793,Australia,Royal Challengers Bangalore
+Aaron Pant,28,1.81,95,4910,India,Chennai Super Kings
+Trent Pandya,24,1.78,62,11455,Afghanistan,Chennai Super Kings
+David Roy,30,1.76,94,8729,New Zealand,Kolkata Knight Riders
+Faf Root,32,1.86,69,537,Bangladesh,Delhi Capitals
+Hardik AlHasan,26,1.68,70,2788,Bangladesh,Delhi Capitals
+Mitchell Finch,19,2.02,60,5485,England,Sunrisers Hyderabad
+Trent Azam,29,1.98,68,1631,New Zealand,Chennai Super Kings
+Virat Warner,40,1.96,60,5021,New Zealand,Chennai Super Kings
+Mitchell Kohli,39,1.77,90,1758,Australia,Sunrisers Hyderabad
+Rohit Marsh,40,2.05,93,8942,New Zealand,Delhi Capitals
+Aaron Sharma,36,1.88,82,9888,West Indies,Punjab Kings
+Jos Williamson,33,1.86,74,9850,India,Chennai Super Kings
+Trent Cummins,40,1.91,74,9134,England,Sunrisers Hyderabad
+David Kohli,28,1.71,84,10452,England,Mumbai Indians
+Trent Cummins,24,1.85,63,3783,Sri Lanka,Sunrisers Hyderabad
+Jos Williamson,27,1.86,70,2949,Sri Lanka,Mumbai Indians
+Steve Boult,30,1.89,60,1060,Bangladesh,Punjab Kings
+David Sharma,35,1.95,85,11961,Sri Lanka,Kolkata Knight Riders
+Kane Warner,30,1.87,76,11963,New Zealand,Punjab Kings
+Kane Pandya,33,1.77,84,11953,South Africa,Delhi Capitals
+Steve Pandya,18,1.75,61,9144,Australia,Rajasthan Royals
+Mitchell Stokes,32,1.79,84,3975,Afghanistan,Sunrisers Hyderabad
+Steve Finch,19,1.85,90,3292,India,Punjab Kings
+Pat Finch,31,1.99,78,593,Afghanistan,Kolkata Knight Riders
+Trent Smith,31,1.81,74,6898,West Indies,Delhi Capitals
+Rishabh Boult,24,1.74,61,5844,Bangladesh,Rajasthan Royals
+Hardik Cummins,19,1.98,68,559,South Africa,Royal Challengers Bangalore
+Steve Warner,38,1.71,63,8750,South Africa,Chennai Super Kings
+Quinton Warner,19,1.75,92,8748,England,Chennai Super Kings
+Aaron Marsh,31,1.79,79,10203,Australia,Delhi Capitals
+Virat duPlessis,39,1.88,78,5518,Bangladesh,Kolkata Knight Riders
+Quinton Marsh,36,2.05,72,6026,New Zealand,Delhi Capitals
+Quinton Cummins,30,1.73,74,8870,West Indies,Kolkata Knight Riders
+Pat Cummins,39,1.76,78,7951,Pakistan,Sunrisers Hyderabad
+Quinton Kohli,38,1.66,87,2867,Sri Lanka,Punjab Kings
+Virat Finch,32,1.91,85,1159,Bangladesh,Royal Challengers Bangalore
+Jos Pandya,25,1.95,61,2869,Australia,Mumbai Indians
+Trent Boult,37,1.97,78,2486,Pakistan,Mumbai Indians
+Jason Warner,33,1.9,63,10826,Australia,Delhi Capitals
+Mitchell AlHasan,18,1.67,94,7015,Bangladesh,Delhi Capitals
+Aaron Warner,39,2.03,74,2445,Bangladesh,Royal Challengers Bangalore
+KL Sharma,34,1.8,69,4794,Afghanistan,Sunrisers Hyderabad
+KL Cummins,23,1.76,62,9028,Sri Lanka,Kolkata Knight Riders
+David AlHasan,40,1.81,84,2686,Australia,Rajasthan Royals
+Shakib Sharma,33,2.05,71,1850,India,Rajasthan Royals
+Kane Rahul,38,1.98,80,1525,Bangladesh,Delhi Capitals
+Virat Boult,37,1.95,66,9999,Afghanistan,Punjab Kings
+Ben Finch,21,1.75,63,4438,Bangladesh,Delhi Capitals
+Hardik Stokes,36,1.93,63,4575,Bangladesh,Kolkata Knight Riders
+Shakib Williamson,27,1.94,66,5924,Bangladesh,Rajasthan Royals
+Aaron Buttler,36,1.7,89,4721,Afghanistan,Royal Challengers Bangalore
+Shakib Stokes,28,1.94,64,11387,Australia,Sunrisers Hyderabad
+Ben Stokes,32,2.04,63,2058,West Indies,Chennai Super Kings
+Faf Rahul,35,1.91,76,10014,Sri Lanka,Sunrisers Hyderabad
+Kane Rahul,32,1.74,64,1902,New Zealand,Mumbai Indians
+David Stokes,24,1.96,95,11038,Australia,Kolkata Knight Riders
+Quinton Buttler,18,1.94,82,821,Afghanistan,Kolkata Knight Riders
+Rishabh deKock,31,1.67,82,7985,South Africa,Kolkata Knight Riders
+Hardik Cummins,18,1.98,95,11569,West Indies,Kolkata Knight Riders
+Virat duPlessis,24,1.76,82,2653,India,Rajasthan Royals
+Hardik Root,27,1.69,64,8736,Sri Lanka,Punjab Kings
+Babar Marsh,34,1.99,90,1077,Afghanistan,Rajasthan Royals
+Steve deKock,35,1.89,68,8258,New Zealand,Royal Challengers Bangalore
+David Root,20,1.7,94,5419,Sri Lanka,Delhi Capitals
+Faf Azam,35,1.79,70,5451,Bangladesh,Royal Challengers Bangalore
+Trent Pandya,33,2.03,80,5695,India,Sunrisers Hyderabad
+Quinton Cummins,22,2.03,95,11950,Pakistan,Kolkata Knight Riders
+Kane Rahul,19,1.79,78,10849,Sri Lanka,Kolkata Knight Riders
+Pat Buttler,24,1.95,75,1533,New Zealand,Punjab Kings
+Trent Root,19,1.78,66,2667,Bangladesh,Kolkata Knight Riders
+Aaron Williamson,28,1.93,91,11422,West Indies,Rajasthan Royals
+Hardik Pandya,35,1.8,67,9964,Bangladesh,Punjab Kings
+Rishabh Boult,28,1.9,70,6331,New Zealand,Rajasthan Royals
+Jos Root,25,1.97,73,7466,India,Sunrisers Hyderabad
+Aaron Buttler,32,1.97,84,11727,Sri Lanka,Royal Challengers Bangalore
+Rohit Rahul,39,1.91,95,7191,Sri Lanka,Rajasthan Royals
+Kane Root,36,1.83,80,9920,West Indies,Punjab Kings
+Jason Sharma,33,2.04,66,10190,India,Chennai Super Kings
+Trent duPlessis,40,1.93,63,11818,Sri Lanka,Rajasthan Royals
+KL Finch,29,1.86,86,1566,Australia,Rajasthan Royals
+Pat Marsh,32,1.84,84,9178,India,Mumbai Indians
+Babar Cummins,30,2.01,88,673,New Zealand,Royal Challengers Bangalore
+Shakib Smith,33,1.95,92,9124,South Africa,Delhi Capitals
+Virat Finch,20,1.7,61,8065,Sri Lanka,Chennai Super Kings
+Babar AlHasan,30,1.87,84,3939,Sri Lanka,Sunrisers Hyderabad
+Ben Finch,22,1.67,85,4052,Pakistan,Punjab Kings
+Rishabh Rahul,29,1.96,75,10824,South Africa,Punjab Kings
+Virat Azam,39,1.98,61,3780,New Zealand,Chennai Super Kings
+Jason Rahul,18,1.84,71,11274,England,Delhi Capitals
+Jason Rahul,40,1.89,86,8928,Afghanistan,Royal Challengers Bangalore
+Joe Roy,27,1.78,83,10278,West Indies,Chennai Super Kings
+Quinton Sharma,39,2.05,88,1115,South Africa,Sunrisers Hyderabad
+Mitchell Rahul,31,1.72,61,7140,Pakistan,Punjab Kings
+David Smith,40,1.68,62,1088,Australia,Chennai Super Kings
+Jos Cummins,34,1.71,95,7297,India,Sunrisers Hyderabad
+Faf Stokes,29,1.97,69,6728,Bangladesh,Royal Challengers Bangalore
+Steve Azam,18,1.79,66,1621,Sri Lanka,Sunrisers Hyderabad
+Kane Azam,40,1.69,81,5736,Sri Lanka,Kolkata Knight Riders
+Aaron Kohli,27,1.78,67,2329,India,Rajasthan Royals
+Jason Pandya,19,1.79,94,8621,West Indies,Delhi Capitals
+Faf duPlessis,35,1.99,81,2503,Bangladesh,Kolkata Knight Riders
+Virat Roy,24,1.84,67,10712,England,Delhi Capitals
+Rohit Cummins,18,1.67,79,11215,India,Rajasthan Royals
+Jason Warner,25,1.94,80,8854,New Zealand,Kolkata Knight Riders
+Aaron Sharma,39,1.82,69,1846,Afghanistan,Mumbai Indians
+Trent Rahul,22,1.77,70,1621,Pakistan,Sunrisers Hyderabad
+Trent Azam,32,1.97,81,7930,West Indies,Punjab Kings
+Virat Roy,22,1.93,74,4154,Pakistan,Chennai Super Kings
+Steve Warner,33,1.95,85,2700,Bangladesh,Royal Challengers Bangalore
+Hardik Sharma,21,1.82,71,9524,Afghanistan,Sunrisers Hyderabad
+Mitchell Pandya,19,1.8,68,6707,India,Punjab Kings
+Joe Warner,37,1.79,64,9272,Australia,Sunrisers Hyderabad
+Rohit Kohli,29,1.97,79,909,India,Sunrisers Hyderabad
+Hardik Finch,24,1.96,65,6103,New Zealand,Chennai Super Kings
+Joe Pandya,36,1.94,81,10123,South Africa,Chennai Super Kings
+Babar duPlessis,26,1.73,76,10484,Sri Lanka,Chennai Super Kings
+Ben Pandya,31,1.97,64,7022,South Africa,Kolkata Knight Riders
+Shakib AlHasan,22,1.66,84,9390,Australia,Sunrisers Hyderabad
+Ben Buttler,19,1.86,71,1310,Afghanistan,Punjab Kings
+Babar Buttler,29,2.01,91,9669,West Indies,Royal Challengers Bangalore
+Faf Pant,39,1.85,91,2965,Afghanistan,Rajasthan Royals
+Kane Smith,21,1.97,88,1230,England,Rajasthan Royals
+Rohit Sharma,23,1.78,62,8840,Pakistan,Royal Challengers Bangalore
+Faf Kohli,28,1.9,84,9418,Pakistan,Punjab Kings
+KL Cummins,30,1.85,70,729,Afghanistan,Mumbai Indians
+Faf Buttler,40,2.02,93,7751,South Africa,Royal Challengers Bangalore
+KL duPlessis,18,1.84,62,1125,India,Royal Challengers Bangalore
+Rishabh Williamson,26,2.0,69,1329,Afghanistan,Delhi Capitals
+Trent Finch,26,2.0,92,2685,New Zealand,Rajasthan Royals
+Pat deKock,20,1.88,70,1076,Pakistan,Rajasthan Royals
+KL AlHasan,40,1.87,91,4699,New Zealand,Sunrisers Hyderabad
+Mitchell Root,40,1.74,87,1506,Australia,Chennai Super Kings
+Rishabh Root,25,1.71,65,6922,Sri Lanka,Sunrisers Hyderabad
+Pat Boult,32,1.65,71,5221,Bangladesh,Kolkata Knight Riders
+Pat Kohli,18,1.69,68,5803,Sri Lanka,Royal Challengers Bangalore
+David Root,28,1.74,92,9126,South Africa,Royal Challengers Bangalore
+Aaron Williamson,39,1.76,84,7755,New Zealand,Chennai Super Kings
