@@ -13,6 +13,11 @@ CREATE TABLE IF NOT EXISTS users(
 
 SELECT * FROM users;
 
+copy users (Name, Age, Height, Weight, Runs, Country, Club, DOB)
+FROM 'D:/postgreSQL/CSV-file-for-SQL-Practice/CricketPlayers.csv'
+CSV HEADER;
+
+-- previous code
 COPY
 users (Name, Age, Height , Weight , Runs, Country, Club,	DOB)
 FROM 'D:\postgreSQL\CSV Files\CricketPlayers.csv'
