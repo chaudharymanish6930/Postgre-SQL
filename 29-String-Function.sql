@@ -54,5 +54,18 @@ FROM users;
 SELECT product_name, LENGTH(product_name) AS count_of_characters
 FROM users;
 
--- Remove leading and trailing spaces from string
+-- Remove leading and trailing spaces from string "TRIM"
 SELECT TRIM('  Monitor  ') AS trim_text;
+SELECT LENGTH(TRIM('  Monitor  ')) AS trim_text;
+SELECT LENGTH('  Monitor  ') AS trim_text;
+
+-- Replace words "phone" with "device" in product names
+SELECT REPLACE(product_name,'phone','device') AS updated
+FROM users;
+
+-- get the first 3 characters from categort
+SELECT LEFT(category,3) AS category_Capital
+FROM users;
+
+SELECT RIGHT(category,3) AS category_Capital
+FROM users;
