@@ -34,7 +34,7 @@ FROM users;
 
 SELECT product_name, category, price,
 		RANK() OVER(PARTITION BY category ORDER BY price DESC) AS ranking
-FROM users; -- amount same
+FROM users; -- amount same 1,1,3
 
 SELECT product_name, category, price,
 		SUM(price) OVER(ORDER BY price DESC) AS running_total
